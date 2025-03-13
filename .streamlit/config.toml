@@ -1,0 +1,6 @@
+[server]
+# Force Streamlit to use Python 3.10
+pythonPath = "python3.10"
+
+[global]
+developmentMode = false 
