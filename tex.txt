@@ -2,6 +2,6 @@ OpenAI x LangChain x Streamlit x RAG の構築とChromaDB基礎知識
 投稿日 2025年01月14日
 https://qiita.com/suzookita/items/1fa11705e85f61e04a78
 
-大型言語モデル（LLM）の最適化のためのチャンキング戦略
+大型言語モデル（LLM）の最適化のためのチャンキング戦略55
 Mon Nov 11 2024
 https://myscale.com/blog/ja/chunking-strategies-for-optimizing-llms/
